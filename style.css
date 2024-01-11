@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+}
+
+ul {
+    font-size: 20px;
+    text-transform: capitalize;
+    border-top: 5px solid;
+    border-bottom: 3px solid;
+    text-align: center;
+}
+
+li {
+    display: inline; margin: 20px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+p{
+    /* margin: 20px; */
+    font: normal;
+    text-align: center;
+    line-height: 25px;
+}
+
